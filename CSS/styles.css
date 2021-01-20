@@ -178,3 +178,30 @@ table.center {
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+
+.gitBtn {
+  background: #1d9e03;
+  background-image: -webkit-linear-gradient(top, #1d9e03, #b8492b);
+  background-image: -moz-linear-gradient(top, #1d9e03, #b8492b);
+  background-image: -ms-linear-gradient(top, #1d9e03, #b8492b);
+  background-image: -o-linear-gradient(top, #1d9e03, #b8492b);
+  background-image: linear-gradient(to bottom, #1d9e03, #b8492b);
+  -webkit-border-radius: 16;
+  -moz-border-radius: 16;
+  border-radius: 16px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.gitBtn:hover {
+  background: #3cfc53;
+  background-image: -webkit-linear-gradient(top, #3cfc53, #470808);
+  background-image: -moz-linear-gradient(top, #3cfc53, #470808);
+  background-image: -ms-linear-gradient(top, #3cfc53, #470808);
+  background-image: -o-linear-gradient(top, #3cfc53, #470808);
+  background-image: linear-gradient(to bottom, #3cfc53, #470808);
+  text-decoration: none;
+}
